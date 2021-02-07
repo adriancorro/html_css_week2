@@ -106,7 +106,6 @@ align-self: end; Esto permite que se anule la alineación predeterminada
         
         display: flex;
         flex-direction: row;
-        flex-wrap: nowrap;
         justify-content: center;
         align-items: stretch;
         align-content: stretch;
@@ -122,7 +121,6 @@ align-self: end; Esto permite que se anule la alineación predeterminada
     .cuadroparatextos{
         display: flex;
         flex-direction: column;
-        flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
         align-content: center;
@@ -151,7 +149,6 @@ align-self: end; Esto permite que se anule la alineación predeterminada
     .sectiontitulos{
         display: flex;
         flex-direction: row;
-        flex-wrap: nowrap;
         justify-content: center;
         align-items: baseline;
         align-content: stretch;
@@ -169,7 +166,6 @@ align-self: end; Esto permite que se anule la alineación predeterminada
     .row4{
         display: flex;
 	flex-direction: row;
-	flex-wrap: nowrap;
 	justify-content: space-around;
 	align-items: center;
 	align-content: center;
@@ -202,7 +198,6 @@ align-self: end; Esto permite que se anule la alineación predeterminada
         width: 100%;
         display: flex;
         flex-direction: column;
-        flex-wrap: nowrap;
         justify-content: space-around;
         align-items: center;
         align-content: center; 
@@ -234,7 +229,6 @@ align-self: end; Esto permite que se anule la alineación predeterminada
         .sectioncontenido {
             display: flex;
             flex-direction: column;
-             flex-wrap: nowrap;
              padding: 0% ;
              align-content: center;
              align-items: center;
